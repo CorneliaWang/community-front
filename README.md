@@ -1,4 +1,5 @@
 # community-front
+<<<<<<< HEAD
 
 ## Project setup
 ```
@@ -22,3 +23,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+>>>>>>> 040fbbf820b9342114c301c0df1567f9e4ef9a22
